@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vueadev/hexo-theme-stellar.git"
+    "url": "https://github.com/tvudev/hexo-theme-stellar.git"
   },
   "keywords": [
     "hexo",
     "theme",
     "stellar"
   ],
-  "author": "[@vueadev](https://github.com/tvudev/)",
+  "author": "[@tvudev](https://github.com/tvudev/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vueadev/hexo-theme-stellar/issues/"
+    "url": "https://github.com/tvudev/hexo-theme-stellar/issues/"
   },
   "dependencies": {
     "hexo-renderer-ejs": "^2.0.0",
